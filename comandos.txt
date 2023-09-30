@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile="C:\Users\Leonardo Monteiro\Desktop\Avancada\sim\lib\junit\junit-4.13.2.jar" -DgroupId="junit" -DartifactId="junit" -Dversion="junit" -Dpackaging="jar" -DgeneratePom=true
